@@ -1,4 +1,4 @@
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Garamond&size=26&pause=3000&color=434C92&vCenter=true&width=435&height=54&lines=Baby+don't+sweat+it.)](https://git.io/typing-svg)
 
 <!--
 **damon-hill/damon-hill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
