@@ -1,6 +1,6 @@
-<img width=142 height=26 alt=Hill src=Untitled822_20261113105608.png>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Garamond&size=26&pause=3000&color=434C92&vCenter=true&width=435&height=54&lines=Baby+don't+sweat+it.)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Garamond&size=26&pause=3000&color=434C92&vCenter=true&width=435&height=54&lines=Baby+don't+sweat+it.)](https://git.io/typing-svg)
+<img width=142 height=98 alt=Hill src=Untitled822_20261113105608.png>
 <!--
 **damon-hill/damon-hill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
